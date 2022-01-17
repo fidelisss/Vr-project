@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Concrete
+  m_Shader: {fileID: -6465566751694194690, guid: 87e7a14fdb423f745a96ba00770b020f, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_28d2abacb3bf4af0bea67ded0923b16f_Texture_1:
+        m_Texture: {fileID: 2800000, guid: f9367a5d8403e064cb9ec27a3b1ab499, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_6c5b129c3504482e9ac6dfd464051b50_Texture_1:
+        m_Texture: {fileID: 2800000, guid: f9367a5d8403e064cb9ec27a3b1ab499, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_e6a783b7f8684d4cb18e060f1b313505_Texture_1:
+        m_Texture: {fileID: 2800000, guid: f9367a5d8403e064cb9ec27a3b1ab499, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_2b726c22757f42b2ae1b5e59f70c4ba5: 100
+    - Vector1_734cd0b77c3544f598472a3ac8474790: 0.021
+    - Vector1_c982fe5820d344b3b2d7d3345af1f930: 0
+    m_Colors:
+    - Color_f23f89f0513848b69aacd8ac40bf90a0: {r: 0, g: 2, b: 2, a: 1}
+  m_BuildTextureStacks: []

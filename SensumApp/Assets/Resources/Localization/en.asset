@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13e6dc2e32f97b44d96402a241433a4a, type: 3}
+  m_Name: en
+  m_EditorClassIdentifier: 
+  url: https://docs.google.com/spreadsheets/d/e/2PACX-1vRR-bjYvTbQKeMcgKzSX6wWo47q_rr7lIvNYnzyTwXlFVHZDPL9N1DE2Z05ImnDFsYhtDprWxGfKPD8/pub?gid=3369543&single=true&output=tsv
+  localItems:
+  - key: text_pressure
+    value: "Pressure:\r"
+  - key: text_flow_rate
+    value: "Flow rate:\r"
+  - key: text_diameter
+    value: "Diameter:\r"
+  - key: text_meter
+    value: "Meter\r"
+  - key: text_mass
+    value: "Mass\r"
+  - key: text_angular_velocity
+    value: "Angular Velocity\r"
+  - key: text_radius
+    value: "Radius\r"
+  - key: button_the_movement_of_bodies_on_an_inclined
+    value: "The movement of bodies on an inclined\r"
+  - key: button_newton_theory_of_gravity
+    value: "Newton's theory of gravity\r"
+  - key: button_solid_of_revolution
+    value: "Solid of revolution\r"
+  - key: button_center_of_mass
+    value: "Center of mass\r"
+  - key: button_hydrodynamics
+    value: "Hydrodynamics\r"
+  - key: button_movements_of_bodies_in_viscous_fluid
+    value: "Movements of bodies in a viscous fluid\r"
+  - key: button_kinetic_molecular_theory
+    value: "Kinetic molecular theory\r"
+  - key: button_efficiency
+    value: "Efficiency\r"
+  - key: text_phisics
+    value: "Phisics\r"
+  - key: button_lecture_list
+    value: "Lecture List\r"
+  - key: button_back
+    value: "Back\r"
+  - key: text_name
+    value: "Name\r"
+  - key: button_back_to_lobby
+    value: "Back to lobby\r"
+  - key: button_yes
+    value: "YES\r"
+  - key: button_no
+    value: "NO\r"
+  - key: button_connect
+    value: "Connect\r"
+  - key: text_choose_laguage
+    value: "Choose your language:\r"
+  - key: text_cube_mass
+    value: "Cube Mass:\r"
+  - key: text_rubber_cube_mass
+    value: "Rubber Cube Mass:\r"
+  - key: text_wood_cube_mass
+    value: "Wood Cube Mass:\r"
+  - key: text_friction
+    value: "Friction =\r"
+  - key: button_turn_off_on
+    value: "Turn off/on\r"
+  - key: text_timer1
+    value: "Timer 1:\r"
+  - key: text_timer2
+    value: "Timer 2:\r"
+  - key: text_angle
+    value: "Angle:\r"
+  - key: text_ice_cube_mass
+    value: "Ice Cube Mass:\r"
+  - key: text_metal_cube_mass
+    value: "Metal Cube Mass:\r"
+  - key: text_molecules
+    value: "Molecules\r"
+  - key: text_player_name
+    value: "Player Name\r"
+  - key: button_send
+    value: "Send\r"
+  - key: button_clear
+    value: "Clear\r"
+  - key: button_freeze
+    value: "Freeze\r"
+  - key: text_pipe_flow
+    value: "Pipe flow:\r"
+  - key: button_room_1
+    value: "Join To Room 1\r"
+  - key: button_room_2
+    value: "Join To Room 2\r"
+  - key: button_room_3
+    value: "Join To Room 3\r"
+  - key: text_earth
+    value: "Earth\r"
+  - key: text_jupiter
+    value: "Jupiter\r"
+  - key: text_mars
+    value: "Mars\r"
+  - key: text_moon
+    value: "Moon\r"
+  - key: text_sun
+    value: "Sun\r"
+  - key: text_send_copy
+    value: "Send a copy\r"
+  - key: text_delete_copy
+    value: "Delete all copies\r"
+  - key: text_send_db
+    value: "Send to Table\r"
+  - key: button_login
+    value: "Login\r"
+  - key: button_username
+    value: "Username\r"
+  - key: button_password
+    value: "Password\r"
+  - key: button_login_login
+    value: "Login\r"
+  - key: notation_newton
+    value: "N\r"
+  - key: notation_meter
+    value: "m\r"
+  - key: notation_degree
+    value: "\xB0\r"
+  - key: notation_kilogram
+    value: "kg\r"
+  - key: notation_rad_per_s
+    value: "rad/s\r"
+  - key: notation_degree_per_s
+    value: "\xB0/s"
